@@ -1,0 +1,8 @@
+# my-config-repo/application.yml
+logging:
+  level:
+    root: INFO
+spring:
+  datasource:
+    username: globaluser
+    password: globalpass
